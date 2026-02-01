@@ -1,0 +1,9 @@
+# Configure your repository's sponsor button and funding links.
+# Replace the placeholders below with your own usernames or URLs.
+
+github: [your-github-username]
+patreon: your-patreon-id
+open_collective: your-opencollective-id
+ko_fi: your-kofi-id
+buy_me_a_coffee: your-buymeacoffee-id
+custom: ["https://www.paypal.me/yourusername", "https://donate.yourministry.org"]
