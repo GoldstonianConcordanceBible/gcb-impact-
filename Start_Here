@@ -1,0 +1,29 @@
+
+## Quick Start
+
+1. If you want the agents deployed: read `docs/AGENT_SKILLS/README.md`, then install
+   `skills/gcb-librarian/` into your OpenClaw agent workspace.
+2. Read `docs/MONETIZATION.md` and `docs/MISSION.md` to understand how
+   fundraising and ministry values work together.
+3. Share this repository and invite collaborators who are committed to
+   walking in the Word of God.
+
+## How to Support
+
+Funding is essential for covering hosting costs, commissioning new
+translations, improving the agent tooling, and reaching new languages.
+We rely on voluntary contributions rather than paywalls or intrusive
+advertising.  You can support the project through GitHub Sponsors and
+other platforms (see `.github/FUNDING.yml` for details).  If your
+organization is a registered nonprofit, consider applying for the
+**GitHub for Nonprofits** program, which provides a free Team plan and
+discounted enterprise features.  Hosting projects on GitHub can
+increase visibility and attract support from donors, funders,
+volunteers and partners.
+
+## Disclaimer
+
+This repository provides templates and guidance.  It is not financial
+or legal advice.  Consult appropriate counsel when structuring
+non-profit entities, handling tax-deductible donations, or
+commercializing derivative works.
