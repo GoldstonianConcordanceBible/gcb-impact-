@@ -26,3 +26,18 @@ This project exists to help custodians of the GCB:
 
 ## Repository Structure
 
+gcb-impact/
+├── README.md – this overview
+├── LICENSE – permissive MIT license
+├── CODE_OF_CONDUCT.md – behaviour standards grounded in biblical love and respect
+├── CONTRIBUTING.md – guidelines for contributing to this project
+├── .github/
+│ └── FUNDING.yml – configuration for GitHub Sponsors and external donation links
+├── docs/
+│ ├── MISSION.md – the theological and ethical foundations of the project
+│ ├── MONETIZATION.md – sustainable funding strategies and examples
+│ └── AGENT_SKILLS/
+│ └── README.md – guide for creating and deploying agent skills
+└── skills/
+└── gcb-librarian/
+└── SKILL.md – OpenClaw skill for a librarian agent that cites GitHub sources
